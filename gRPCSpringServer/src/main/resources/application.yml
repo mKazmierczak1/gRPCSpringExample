@@ -1,5 +1,5 @@
 grpc:
-  port: 50052
+  port: 6565
   netty-server:
     keep-alive-time: 30s
     max-inbound-message-size: 10MB
